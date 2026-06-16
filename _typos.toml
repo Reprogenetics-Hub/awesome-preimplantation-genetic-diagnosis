@@ -7,6 +7,9 @@ dot_acn = ".acn"
 dot_fot = ".fot"
 dot_ist = ".ist"
 MERCHANTIBILITY = "MERCHANTIBILITY"
+Wnt = "Wnt"
+Sebastiaan = "Sebastiaan"
+Thi = "Thi"
 
 [files]
 extend-exclude = [

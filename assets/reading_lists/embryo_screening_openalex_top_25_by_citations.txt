@@ -1,0 +1,228 @@
+Top 25 Papers Citation Search Results
+Generated: 2025-10-28 02:43:56
+================================================================================
+
+1. Toxicity and cellular uptake of gold nanoparticles: what we have learned so far?
+   Authors: Alaaldin M. Alkilany, Catherine J. Murphy
+   Year: 2010
+   Citations: 1431
+   Source: Journal of Nanoparticle Research
+   DOI: https://doi.org/10.1007/s11051-010-9911-8
+   URL: https://doi.org/10.1007/s11051-010-9911-8
+   Open Access: Yes
+
+2. Ultrasensitive proteome analysis using paramagnetic bead technology
+   Authors: Christopher S. Hughes, Sophia Föehr, David Garfield, Eileen E. M. Furlong, Lars M. Steinmetz
+   Year: 2014
+   Citations: 1115
+   Source: Molecular Systems Biology
+   DOI: https://doi.org/10.15252/msb.20145625
+   URL: https://doi.org/10.15252/msb.20145625
+   Open Access: Yes
+
+3. Human aneuploidy: mechanisms and new insights into an age-old problem
+   Authors: So I Nagaoka, Terry Hassold, Patricia A. Hunt
+   Year: 2012
+   Citations: 963
+   Source: Nature Reviews Genetics
+   DOI: https://doi.org/10.1038/nrg3245
+   URL: https://doi.org/10.1038/nrg3245
+   Open Access: Yes
+
+4. p53 inhibits CRISPR–Cas9 engineering in human pluripotent stem cells
+   Authors: Robert J. Ihry, Kathleen A. Worringer, Max R. Salick, Elizabeth Frias, Daniel Ho
+   Year: 2018
+   Citations: 930
+   Source: Nature Medicine
+   DOI: https://doi.org/10.1038/s41591-018-0050-6
+   URL: https://doi.org/10.1038/s41591-018-0050-6
+   Open Access: Yes
+
+5. Emerging Patient-Driven Health Care Models: An Examination of Health Social Networks, Consumer Personalized Medicine and Quantified Self-Tracking
+   Authors: Melanie Swan
+   Year: 2009
+   Citations: 743
+   Source: International Journal of Environmental Research and Public Health
+   DOI: https://doi.org/10.3390/ijerph6020492
+   URL: https://doi.org/10.3390/ijerph6020492
+   Open Access: Yes
+
+6. Beyond therapy: biotechnology and the pursuit of happiness
+   Authors: León R. Kass
+   Year: 2004
+   Citations: 681
+   Source: Choice Reviews Online
+   DOI: https://doi.org/10.5860/choice.42-1550
+   URL: https://doi.org/10.5860/choice.42-1550
+   Open Access: Yes
+
+7. Toxicity Assessments of Multisized Gold and Silver Nanoparticles in Zebrafish Embryos
+   Authors: Ofek Bar‐Ilan, Ralph M. Albrecht, Valerie Fako, Darin Y. Furgeson
+   Year: 2009
+   Citations: 631
+   Source: Small
+   DOI: https://doi.org/10.1002/smll.200801716
+   URL: https://doi.org/10.1002/smll.200801716
+   Open Access: Yes
+
+8. An environmentally benign antimicrobial nanoparticle based on a silver-infused lignin core
+   Authors: Alexander P. Richter, Joseph S. Brown, Bhuvnesh Bharti, Amy Wang, Sumit Gangwal
+   Year: 2015
+   Citations: 573
+   Source: Nature Nanotechnology
+   DOI: https://doi.org/10.1038/nnano.2015.141
+   URL: https://doi.org/10.1038/nnano.2015.141
+   Open Access: No
+
+9. Long-term two-photon fluorescence imaging of mammalian embryos without compromising viability
+   Authors: Jayne M. Squirrell, David L. Wokosin, John G. White, Barry D. Bavister
+   Year: 1999
+   Citations: 542
+   Source: Nature Biotechnology
+   DOI: https://doi.org/10.1038/11698
+   URL: https://doi.org/10.1038/11698
+   Open Access: Yes
+
+10. Zebrafish as a model system to study toxicology
+   Authors: Yujie Dai, Yongfang Jia, Na Chen, Wan-Ping Bian, Qinkai Li
+   Year: 2013
+   Citations: 511
+   Source: Environmental Toxicology and Chemistry
+   DOI: https://doi.org/10.1002/etc.2406
+   URL: https://doi.org/10.1002/etc.2406
+   Open Access: No
+
+11. SIP1, a Novel Zinc Finger/Homeodomain Repressor, Interacts with Smad Proteins and Binds to 5′-CACCT Sequences in Candidate Target Genes
+   Authors: Kristin Verschueren, Jacques Remacle, Clara Collart, H Kraft, Betty S. Baker
+   Year: 1999
+   Citations: 502
+   Source: Journal of Biological Chemistry
+   DOI: https://doi.org/10.1074/jbc.274.29.20489
+   URL: https://doi.org/10.1074/jbc.274.29.20489
+   Open Access: Yes
+
+12. The morphology of human pronuclear embryos is positively related to blastocyst development and implantation
+   Authors: Lynette Scott, Ruben Alvero, M.P. Leondires, B.G. Miller
+   Year: 2000
+   Citations: 443
+   Source: Human Reproduction
+   DOI: https://doi.org/10.1093/humrep/15.11.2394
+   URL: https://doi.org/10.1093/humrep/15.11.2394
+   Open Access: No
+
+13. Preimplantation genetic screening: a systematic review and meta-analysis of RCTs
+   Authors: Sebastiaan Mastenbroek, Moniek Twisk, Fulco van der Veen, Sjoerd Repping
+   Year: 2011
+   Citations: 398
+   Source: Human Reproduction Update
+   DOI: https://doi.org/10.1093/humupd/dmr003
+   URL: https://doi.org/10.1093/humupd/dmr003
+   Open Access: Yes
+
+14. Use of the genus Artemia in ecotoxicity testing
+   Authors: Bruno Nunes, Félix Carvalho, Lúcia Guilhermino, Gilbert Van Stappen
+   Year: 2006
+   Citations: 377
+   Source: Environmental Pollution
+   DOI: https://doi.org/10.1016/j.envpol.2005.12.037
+   URL: https://doi.org/10.1016/j.envpol.2005.12.037
+   Open Access: No
+
+15. A Tandem Duplicate of Anti-Müllerian Hormone with a Missense SNP on the Y Chromosome Is Essential for Male Sex Determination in Nile Tilapia, Oreochromis niloticus
+   Authors: Minghui Li, Yun-Lv Sun, Jiue Zhao, Hongjuan Shi, Sheng Zeng
+   Year: 2015
+   Citations: 376
+   Source: PLoS Genetics
+   DOI: https://doi.org/10.1371/journal.pgen.1005678
+   URL: https://doi.org/10.1371/journal.pgen.1005678
+   Open Access: Yes
+
+16. Human Genetic Enhancements: A Transhumanist Perspective
+   Authors: Nick Bostrom
+   Year: 2003
+   Citations: 346
+   Source: The Journal of Value Inquiry
+   DOI: https://doi.org/10.1023/b:inqu.0000019037.67783.d5
+   URL: https://doi.org/10.1023/b:inqu.0000019037.67783.d5
+   Open Access: No
+
+17. Clinical application of comprehensive chromosomal screening at the blastocyst stage
+   Authors: William B. Schoolcraft, E. Fragouli, John Stevens, S. Munné, M. Katz-Jaffe
+   Year: 2009
+   Citations: 332
+   Source: Fertility and Sterility
+   DOI: https://doi.org/10.1016/j.fertnstert.2009.10.015
+   URL: https://doi.org/10.1016/j.fertnstert.2009.10.015
+   Open Access: Yes
+
+18. Use of a High-Throughput Screening Approach Coupled with <i>In Vivo</i> Zebrafish Embryo Screening To Develop Hazard Ranking for Engineered Nanomaterials
+   Authors: Saji George, Tian Xia, Robert Ralló, Yan Zhao, Zhaoxia Ji
+   Year: 2011
+   Citations: 319
+   Source: ACS Nano
+   DOI: https://doi.org/10.1021/nn102734s
+   URL: https://doi.org/10.1021/nn102734s
+   Open Access: Yes
+
+19. The use of preimplantation genetic testing for aneuploidy (PGT-A): a committee opinion
+   Authors: Alan S. Penzias, K. Bendikson, Samantha Butts, Christos Coutifaris, Tommaso Falcone
+   Year: 2018
+   Citations: 312
+   Source: Fertility and Sterility
+   DOI: https://doi.org/10.1016/j.fertnstert.2018.01.002
+   URL: https://doi.org/10.1016/j.fertnstert.2018.01.002
+   Open Access: Yes
+
+20. Efficient gene targeting in <i>Drosophila</i> by direct embryo injection with zinc-finger nucleases
+   Authors: Kelly J. Beumer, Jonathan K. Trautman, Ana Bozas, Ji‐Long Liu, Jared Rutter
+   Year: 2008
+   Citations: 281
+   Source: Proceedings of the National Academy of Sciences
+   DOI: https://doi.org/10.1073/pnas.0810475105
+   URL: https://doi.org/10.1073/pnas.0810475105
+   Open Access: Yes
+
+21. Cytogenetic analysis of human blastocysts with the use of FISH, CGH and aCGH: scientific data and technical evaluation
+   Authors: E. Fragouli, S. Alfarawati, D.D. Daphnis, N.-N. Goodall, Anastasia Mania
+   Year: 2010
+   Citations: 266
+   Source: Human Reproduction
+   DOI: https://doi.org/10.1093/humrep/deq344
+   URL: https://doi.org/10.1093/humrep/deq344
+   Open Access: No
+
+22. The Reversal Test: Eliminating Status Quo Bias in Applied Ethics
+   Authors: Nick Bostrom, Toby Ord
+   Year: 2006
+   Citations: 261
+   Source: Ethics
+   DOI: https://doi.org/10.1086/505233
+   URL: https://doi.org/10.1086/505233
+   Open Access: No
+
+23. Assisted Reproductive Technologies and Culture Change
+   Authors: Marcia C. Inhorn, Daphna Birenbaum‐Carmeli
+   Year: 2008
+   Citations: 256
+   Source: Annual Review of Anthropology
+   DOI: https://doi.org/10.1146/annurev.anthro.37.081407.085230
+   URL: https://doi.org/10.1146/annurev.anthro.37.081407.085230
+   Open Access: No
+
+24. Review of Copper and Copper Nanoparticle Toxicity in Fish
+   Authors: Nemi Malhotra, Tzong-Rong Ger, Boontida Uapipatanakul, Jong‐Chin Huang, Kelvin H.‐C. Chen
+   Year: 2020
+   Citations: 254
+   Source: Nanomaterials
+   DOI: https://doi.org/10.3390/nano10061126
+   URL: https://doi.org/10.3390/nano10061126
+   Open Access: Yes
+
+25. <i>PITX2</i> Insufficiency Leads to Atrial Electrical and Structural Remodeling Linked to Arrhythmogenesis
+   Authors: Ana Chinchilla, Houria Daimi, Estefanía Lozano-Velasco, Jorge N. Domínguez, Ricardo Caballero
+   Year: 2011
+   Citations: 248
+   Source: Circulation Cardiovascular Genetics
+   DOI: https://doi.org/10.1161/circgenetics.110.958116
+   URL: https://doi.org/10.1161/circgenetics.110.958116
+   Open Access: No

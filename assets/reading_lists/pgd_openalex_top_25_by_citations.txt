@@ -1,0 +1,228 @@
+Top 25 Papers Citation Search Results
+Generated: 2025-10-28 02:43:30
+================================================================================
+
+1. Disease-Specific Induced Pluripotent Stem Cells
+   Authors: In-Hyun Park, Natasha Arora, Hongguang Huo, Nimet Maherali, Tim Ahfeldt
+   Year: 2008
+   Citations: 2150
+   Source: Cell
+   DOI: https://doi.org/10.1016/j.cell.2008.07.041
+   URL: https://doi.org/10.1016/j.cell.2008.07.041
+   Open Access: Yes
+
+2. Colorectal Cancer Epidemiology: Incidence, Mortality, Survival, and Risk Factors
+   Authors: Fatima Haggar, Robin P. Boushey
+   Year: 2009
+   Citations: 1974
+   Source: Clinics in Colon and Rectal Surgery
+   DOI: https://doi.org/10.1055/s-0029-1242458
+   URL: https://doi.org/10.1055/s-0029-1242458
+   Open Access: Yes
+
+3. Mitochondrial DNA mutations in human disease
+   Authors: Robert W. Taylor, Douglass M. Turnbull
+   Year: 2005
+   Citations: 1806
+   Source: Nature Reviews Genetics
+   DOI: https://doi.org/10.1038/nrg1606
+   URL: https://doi.org/10.1038/nrg1606
+   Open Access: Yes
+
+4. The Istanbul consensus workshop on embryo assessment: proceedings of an expert meeting
+   Authors: Başak Balaban, Daniel R. Brison, Gloria Calderón, James Catt, J. Conaghan
+   Year: 2011
+   Citations: 1732
+   Source: Human Reproduction
+   DOI: https://doi.org/10.1093/humrep/der037
+   URL: https://doi.org/10.1093/humrep/der037
+   Open Access: Yes
+
+5. International Committee for Monitoring Assisted Reproductive Technology (ICMART) and the World Health Organization (WHO) revised glossary of ART terminology, 2009∗
+   Authors: Fernando Zegers-Hochschild, G. David Adamson, J. de Mouzon, Osamu Ishihara, R. Mansour
+   Year: 2009
+   Citations: 1720
+   Source: Fertility and Sterility
+   DOI: https://doi.org/10.1016/j.fertnstert.2009.09.009
+   URL: https://doi.org/10.1016/j.fertnstert.2009.09.009
+   Open Access: Yes
+
+6. Fertility Preservation for Patients With Cancer: American Society of Clinical Oncology Clinical Practice Guideline Update
+   Authors: Alison W. Loren, Pamela B. Mangu, Lindsay Nohr Beck, Lawrence V. Brennan, Anthony J. Magdalinski
+   Year: 2013
+   Citations: 1533
+   Source: Journal of Clinical Oncology
+   DOI: https://doi.org/10.1200/jco.2013.49.2678
+   URL: https://doi.org/10.1200/jco.2013.49.2678
+   Open Access: Yes
+
+7. N-Acetylaspartate in the CNS: From neurodiagnostics to neurobiology
+   Authors: J MOFFETT, B ROSS, Peethambaran Arun, Chikkathur N. Madhavarao, Aryan M. Namboodiri
+   Year: 2007
+   Citations: 1328
+   Source: Progress in Neurobiology
+   DOI: https://doi.org/10.1016/j.pneurobio.2006.12.003
+   URL: https://doi.org/10.1016/j.pneurobio.2006.12.003
+   Open Access: Yes
+
+8. Mitochondrial diseases
+   Authors: Gráinne S. Gorman, Patrick F. Chinnery, Salvatore DiMauro, Michio Hirano, Yasutoshi Koga
+   Year: 2016
+   Citations: 1318
+   Source: Nature Reviews Disease Primers
+   DOI: https://doi.org/10.1038/nrdp.2016.80
+   URL: https://doi.org/10.1038/nrdp.2016.80
+   Open Access: No
+
+9. The International Glossary on Infertility and Fertility Care, 2017
+   Authors: Fernando Zegers-Hochschild, G. David Adamson, Silke Dyer, Catherine Racowsky, J. de Mouzon
+   Year: 2017
+   Citations: 1232
+   Source: Fertility and Sterility
+   DOI: https://doi.org/10.1016/j.fertnstert.2017.06.005
+   URL: https://doi.org/10.1016/j.fertnstert.2017.06.005
+   Open Access: Yes
+
+10. Diagnosis and management of Duchenne muscular dystrophy, part 1: diagnosis, and neuromuscular, rehabilitation, endocrine, and gastrointestinal and nutritional management
+   Authors: David J. Birnkrant, K. Bushby, Carla Bann, Susan Apkon, Angela Glover Blackwell
+   Year: 2018
+   Citations: 1142
+   Source: The Lancet Neurology
+   DOI: https://doi.org/10.1016/s1474-4422(18)30024-3
+   URL: https://doi.org/10.1016/s1474-4422(18)30024-3
+   Open Access: Yes
+
+11. Atopic dermatitis
+   Authors: Donald Y.M. Leung, Thomas Bieber
+   Year: 2003
+   Citations: 1118
+   Source: The Lancet
+   DOI: https://doi.org/10.1016/s0140-6736(03)12193-9
+   URL: https://doi.org/10.1016/s0140-6736(03)12193-9
+   Open Access: No
+
+12. The International Glossary on Infertility and Fertility Care, 2017†‡§
+   Authors: Fernando Zegers-Hochschild, G. David Adamson, Silke Dyer, Catherine Racowsky, J. de Mouzon
+   Year: 2017
+   Citations: 1092
+   Source: Human Reproduction
+   DOI: https://doi.org/10.1093/humrep/dex234
+   URL: https://doi.org/10.1093/humrep/dex234
+   Open Access: Yes
+
+13. Evaluation and treatment of recurrent pregnancy loss: a committee opinion
+   Authors: Unknown
+   Year: 2012
+   Citations: 1076
+   Source: Fertility and Sterility
+   DOI: https://doi.org/10.1016/j.fertnstert.2012.06.048
+   URL: https://doi.org/10.1016/j.fertnstert.2012.06.048
+   Open Access: Yes
+
+14. Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society* Clinical Practice Guideline
+   Authors: Phyllis Speiser, Wiebke Arlt, Richard J. Auchus, Laurence S. Baskin, Gerard S. Conway
+   Year: 2018
+   Citations: 1044
+   Source: The Journal of Clinical Endocrinology & Metabolism
+   DOI: https://doi.org/10.1210/jc.2018-01865
+   URL: https://doi.org/10.1210/jc.2018-01865
+   Open Access: Yes
+
+15. Single-Cell RNA-Seq Reveals Lineage and X Chromosome Dynamics in Human Preimplantation Embryos
+   Authors: Sophie Petropoulos, Daniel Edsgärd, Björn Reinius, Qiaolin Deng, Sarita Panula
+   Year: 2016
+   Citations: 1029
+   Source: Cell
+   DOI: https://doi.org/10.1016/j.cell.2016.03.023
+   URL: https://doi.org/10.1016/j.cell.2016.03.023
+   Open Access: Yes
+
+16. Guidelines for the diagnosis and management of individuals with neurofibromatosis 1
+   Authors: Rosalie E. Ferner, Susan Huson, N. H. Thomas, Celia Moss, Harry Willshaw
+   Year: 2006
+   Citations: 1010
+   Source: Journal of Medical Genetics
+   DOI: https://doi.org/10.1136/jmg.2006.045906
+   URL: https://doi.org/10.1136/jmg.2006.045906
+   Open Access: Yes
+
+17. European Association of Urology Guidelines on Male Infertility: The 2012 Update
+   Authors: A. Jungwirth, Aleksander Giwercman, Herman Tournaye, Thorsten Diemer, Zsolt Kopa
+   Year: 2012
+   Citations: 991
+   Source: European Urology
+   DOI: https://doi.org/10.1016/j.eururo.2012.04.048
+   URL: https://doi.org/10.1016/j.eururo.2012.04.048
+   Open Access: No
+
+18. Klinefelter's syndrome
+   Authors: Fabio Lanfranco, Axel Kamischke, Michael Zitzmann, Eberhard Nieschlag
+   Year: 2004
+   Citations: 979
+   Source: The Lancet
+   DOI: https://doi.org/10.1016/s0140-6736(04)16678-6
+   URL: https://doi.org/10.1016/s0140-6736(04)16678-6
+   Open Access: No
+
+19. Human aneuploidy: mechanisms and new insights into an age-old problem
+   Authors: So I Nagaoka, Terry Hassold, Patricia A. Hunt
+   Year: 2012
+   Citations: 963
+   Source: Nature Reviews Genetics
+   DOI: https://doi.org/10.1038/nrg3245
+   URL: https://doi.org/10.1038/nrg3245
+   Open Access: Yes
+
+20. Review Article: Genetics of Alzheimer Disease
+   Authors: Lynn M. Bekris, Chang‐En Yu, Thomas D. Bird, Debby W. Tsuang
+   Year: 2010
+   Citations: 955
+   Source: Journal of Geriatric Psychiatry and Neurology
+   DOI: https://doi.org/10.1177/0891988710383571
+   URL: https://doi.org/10.1177/0891988710383571
+   Open Access: Yes
+
+21. Whole genome amplification from a single cell: implications for genetic analysis.
+   Authors: Lin Zhang, Xiufang Cui, Karin Schmitt, R Hubert, William Navidi
+   Year: 1992
+   Citations: 903
+   Source: Proceedings of the National Academy of Sciences
+   DOI: https://doi.org/10.1073/pnas.89.13.5847
+   URL: https://doi.org/10.1073/pnas.89.13.5847
+   Open Access: Yes
+
+22. Correction of a pathogenic gene mutation in human embryos
+   Authors: Hong Ma, Nuria Martí‐Gutiérrez, Sang-Wook Park, Jun Wu, Yeonmi Lee
+   Year: 2017
+   Citations: 897
+   Source: Nature
+   DOI: https://doi.org/10.1038/nature23305
+   URL: https://doi.org/10.1038/nature23305
+   Open Access: Yes
+
+23. β-Thalassemia
+   Authors: Deborah Rund, Eliezer A. Rachmilewitz
+   Year: 2005
+   Citations: 876
+   Source: New England Journal of Medicine
+   DOI: https://doi.org/10.1056/nejmra050436
+   URL: https://doi.org/10.1056/nejmra050436
+   Open Access: No
+
+24. Dynamic Changes in the Copy Number of Pluripotency and Cell Proliferation Genes in Human ESCs and iPSCs during Reprogramming and Time in Culture
+   Authors: Louise C. Laurent, Igor Ulitsky, Ileana Slavin, Ha Thi Thanh Tran, Andrew J. Schork
+   Year: 2011
+   Citations: 874
+   Source: Cell stem cell
+   DOI: https://doi.org/10.1016/j.stem.2010.12.003
+   URL: https://doi.org/10.1016/j.stem.2010.12.003
+   Open Access: Yes
+
+25. Association between the number of eggs and live birth in IVF treatment: an analysis of 400 135 treatment cycles
+   Authors: Sesh Kamal Sunkara, V. Rittenberg, Nick Raine‐Fenning, Siladitya Bhattacharya, Javier Zamora
+   Year: 2011
+   Citations: 866
+   Source: Human Reproduction
+   DOI: https://doi.org/10.1093/humrep/der106
+   URL: https://doi.org/10.1093/humrep/der106
+   Open Access: Yes

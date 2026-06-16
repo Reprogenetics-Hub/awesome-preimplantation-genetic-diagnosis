@@ -1,0 +1,228 @@
+Top 25 Papers Citation Search Results
+Generated: 2025-10-28 02:44:22
+================================================================================
+
+1. Blastocyst score affects implantation and pregnancy outcome: towards a single blastocyst transfer
+   Authors: David K. Gardner, Michelle Lane, John Stevens, Terry Schlenker, William B. Schoolcraft
+   Year: 2000
+   Citations: 1920
+   Source: Fertility and Sterility
+   DOI: https://doi.org/10.1016/s0015-0282(00)00518-5
+   URL: https://doi.org/10.1016/s0015-0282(00)00518-5
+   Open Access: Yes
+
+2. The Istanbul consensus workshop on embryo assessment: proceedings of an expert meeting
+   Authors: Başak Balaban, Daniel R. Brison, Gloria Calderón, James Catt, J. Conaghan
+   Year: 2011
+   Citations: 1732
+   Source: Human Reproduction
+   DOI: https://doi.org/10.1093/humrep/der037
+   URL: https://doi.org/10.1093/humrep/der037
+   Open Access: Yes
+
+3. LDL-receptor-related proteins in Wnt signal transduction
+   Authors: Keiko Tamai, Mikhail A. Semenov, Yoichi Kato, Rebecca Spokony, Chunming Liu
+   Year: 2000
+   Citations: 1319
+   Source: Nature
+   DOI: https://doi.org/10.1038/35035117
+   URL: https://doi.org/10.1038/35035117
+   Open Access: No
+
+4. Effectiveness of specific RNA-mediated interference through ingested double-stranded RNA in Caenorhabditis elegans
+   Authors: Ravi S. Kamath, Maruxa Martinez-Campos, Peder Zipperlen, Andrew Fraser, Julie Ahringer
+   Year: 2000
+   Citations: 1316
+   Source: Genome biology
+   DOI: https://doi.org/10.1186/gb-2000-2-1-research0002
+   URL: https://doi.org/10.1186/gb-2000-2-1-research0002
+   Open Access: Yes
+
+5. Expression cloning of noggin, a new dorsalizing factor localized to the Spemann organizer in Xenopus embryos
+   Authors: William C. Smith, Richard M. Harland
+   Year: 1992
+   Citations: 1183
+   Source: Cell
+   DOI: https://doi.org/10.1016/0092-8674(92)90316-5
+   URL: https://doi.org/10.1016/0092-8674(92)90316-5
+   Open Access: No
+
+6. The axis-inducing activity, stability, and subcellular distribution of beta-catenin is regulated in Xenopus embryos by glycogen synthase kinase 3.
+   Authors: Cynthia Yost, Matthew P. Torres, Jim Miller, Eagle Yi-Kung Huang, David Kimelman
+   Year: 1996
+   Citations: 1164
+   Source: Genes & Development
+   DOI: https://doi.org/10.1101/gad.10.12.1443
+   URL: https://doi.org/10.1101/gad.10.12.1443
+   Open Access: Yes
+
+7. The use of morphokinetics as a predictor of embryo implantation
+   Authors: Marcos Meseguer, Javier Herrero, A. Tejera, K.M. Hilligsøe, Niels B. Ramsing
+   Year: 2011
+   Citations: 858
+   Source: Human Reproduction
+   DOI: https://doi.org/10.1093/humrep/der256
+   URL: https://doi.org/10.1093/humrep/der256
+   Open Access: Yes
+
+8. Toxicity Assessments of Multisized Gold and Silver Nanoparticles in Zebrafish Embryos
+   Authors: Ofek Bar‐Ilan, Ralph M. Albrecht, Valerie Fako, Darin Y. Furgeson
+   Year: 2009
+   Citations: 631
+   Source: Small
+   DOI: https://doi.org/10.1002/smll.200801716
+   URL: https://doi.org/10.1002/smll.200801716
+   Open Access: Yes
+
+9. Follicular fluid content and oocyte quality: from single biochemical markers to metabolomics
+   Authors: Alberto Revelli, Luisa Delle Piane, Simona Casano, Emanuela Molinari, M Massobrio
+   Year: 2009
+   Citations: 608
+   Source: Reproductive Biology and Endocrinology
+   DOI: https://doi.org/10.1186/1477-7827-7-40
+   URL: https://doi.org/10.1186/1477-7827-7-40
+   Open Access: Yes
+
+10. Suppression of Erk signalling promotes ground state pluripotency in the mouse embryo
+   Authors: Jennifer Nichols, José Silva, Mila Roode, Austin Smith
+   Year: 2009
+   Citations: 603
+   Source: Development
+   DOI: https://doi.org/10.1242/dev.038893
+   URL: https://doi.org/10.1242/dev.038893
+   Open Access: Yes
+
+11. Haploinsufficiency of delta-like 4 ligand results in embryonic lethality due to major defects in arterial and vascular development
+   Authors: Nicholas W. Gale, Melissa G. Dominguez, Irene Noguera, Pan Li, Virginia C. Hughes
+   Year: 2004
+   Citations: 599
+   Source: Proceedings of the National Academy of Sciences
+   DOI: https://doi.org/10.1073/pnas.0407290101
+   URL: https://doi.org/10.1073/pnas.0407290101
+   Open Access: Yes
+
+12. Culture and transfer of human blastocysts increases implantation rates and reduces the need for multiple embryo transfers
+   Authors: David K. Gardner, Pauline Vella, Michelle Lane, Lyla Wagley, Terry Schlenker
+   Year: 1998
+   Citations: 595
+   Source: Fertility and Sterility
+   DOI: https://doi.org/10.1016/s0015-0282(97)00438-x
+   URL: https://doi.org/10.1016/s0015-0282(97)00438-x
+   Open Access: Yes
+
+13. The midbrain-hindbrain phenotype of Wnt-1−Wnt-1− mice results from stepwise deletion of engrailed-expressing cells by 9.5 days postcoitum
+   Authors: Andrew P. McMahon, Alexandra L. Joyner, Allan Bradley, Jill A. McMahon
+   Year: 1992
+   Citations: 584
+   Source: Cell
+   DOI: https://doi.org/10.1016/0092-8674(92)90222-x
+   URL: https://doi.org/10.1016/0092-8674(92)90222-x
+   Open Access: No
+
+14. SHORT COMMUNICATION: The cumulative embryo score: a predictive embryo scoring technique to select the optimal number of embryos to transfer in an in-vitro fertilization and embryo transfer programme
+   Authors: C.V. Steer, Carla Mills, Seang Lin Tan, S. Campbell, R. G. Edwards
+   Year: 1992
+   Citations: 550
+   Source: Human Reproduction
+   DOI: https://doi.org/10.1093/oxfordjournals.humrep.a137542
+   URL: https://doi.org/10.1093/oxfordjournals.humrep.a137542
+   Open Access: No
+
+15. Notch signalling and the synchronization of the somite segmentation clock
+   Authors: Yun‐Jin Jiang, Birgit L. Aerne, Lucy Smithers, Catherine Haddon, David Ish‐Horowicz
+   Year: 2000
+   Citations: 548
+   Source: Nature
+   DOI: https://doi.org/10.1038/35044091
+   URL: https://doi.org/10.1038/35044091
+   Open Access: No
+
+16. A formula for scoring human embryo growth rates in in vitro fertilization: Its value in predicting pregnancy and in comparison with visual estimates of embryo quality
+   Authors: J. M. Cummins, T. M. Breen, K. Harrison, J. Shaw, Lynn Wilson
+   Year: 1986
+   Citations: 547
+   Source: Journal of In Vitro Fertilization and Embryo Transfer
+   DOI: https://doi.org/10.1007/bf01133388
+   URL: https://doi.org/10.1007/bf01133388
+   Open Access: No
+
+17. A null c-myc mutation causes lethality before 10.5 days of gestation in homozygotes and reduced fertility in heterozygous female mice.
+   Authors: Ann C. Davis, Marie Wims, Gerald D. Spotts, Stephan Hann, Allan Bradley
+   Year: 1993
+   Citations: 542
+   Source: Genes & Development
+   DOI: https://doi.org/10.1101/gad.7.4.671
+   URL: https://doi.org/10.1101/gad.7.4.671
+   Open Access: Yes
+
+18. Wnt-11 activation of a non-canonical Wnt signalling pathway is required for cardiogenesis
+   Authors: Petra Pandur, Matthias Läsche, Leonard M. Eisenberg, Michael Kühl
+   Year: 2002
+   Citations: 540
+   Source: Nature
+   DOI: https://doi.org/10.1038/nature00921
+   URL: https://doi.org/10.1038/nature00921
+   Open Access: No
+
+19. Wnt Signaling Polarizes an Early C. elegans Blastomere to Distinguish Endoderm from Mesoderm
+   Authors: Christopher J. Thorpe, Ann Schlesinger, J.Clayton Carter, Bruce Bowerman
+   Year: 1997
+   Citations: 529
+   Source: Cell
+   DOI: https://doi.org/10.1016/s0092-8674(00)80530-9
+   URL: https://doi.org/10.1016/s0092-8674(00)80530-9
+   Open Access: Yes
+
+20. Ca2+/Calmodulin-dependent Protein Kinase II Is Stimulated by Wnt and Frizzled Homologs and Promotes Ventral Cell Fates in Xenopus
+   Authors: Michael Kühl, Laird C. Sheldahl, Craig C. Malbon, Randall T. Moon
+   Year: 2000
+   Citations: 506
+   Source: Journal of Biological Chemistry
+   DOI: https://doi.org/10.1074/jbc.275.17.12701
+   URL: https://doi.org/10.1074/jbc.275.17.12701
+   Open Access: Yes
+
+21. Quantitation of rat embryonic development in vitro: A morphological scoring system
+   Authors: Nigel A. Brown, Sergio Fabro
+   Year: 1981
+   Citations: 506
+   Source: Birth Defects Research
+   DOI: https://doi.org/10.1002/tera.1420240108
+   URL: https://doi.org/10.1002/tera.1420240108
+   Open Access: No
+
+22. Istanbul consensus workshop on embryo assessment: proceedings of an expert meeting
+   Authors: Alpha Scientists in Reproductive Medicine, ESHRE Special Interest Group Embryology
+   Year: 2011
+   Citations: 502
+   Source: Reproductive BioMedicine Online
+   DOI: https://doi.org/10.1016/j.rbmo.2011.02.001
+   URL: https://doi.org/10.1016/j.rbmo.2011.02.001
+   Open Access: No
+
+23. Zebrafish trilobite identifies new roles for Strabismus in gastrulation and neuronal movements
+   Authors: Jason R. Jessen, Jacek Topczewski, Stephanie Bingham, Diane S. Sepich, Florence L. Marlow
+   Year: 2002
+   Citations: 499
+   Source: Nature Cell Biology
+   DOI: https://doi.org/10.1038/ncb828
+   URL: https://doi.org/10.1038/ncb828
+   Open Access: Yes
+
+24. Segmental expression of Hoxb-1 is controlled by a highly conserved autoregulatory loop dependent upon exd/pbx
+   Authors: Helke Pöpperl, Mariann Bienz, Michèle Studer, Siu-Kwong Chan, Samuel Aparício
+   Year: 1995
+   Citations: 496
+   Source: Cell
+   DOI: https://doi.org/10.1016/s0092-8674(05)80008-x
+   URL: https://doi.org/10.1016/s0092-8674(05)80008-x
+   Open Access: Yes
+
+25. Roles for Laminin in Embryogenesis: Exencephaly, Syndactyly, and Placentopathy in Mice Lacking the Laminin α5 Chain
+   Authors: Jeffrey H. Miner, Jeanette M. Cunningham, Joshua R. Sanes
+   Year: 1998
+   Citations: 493
+   Source: The Journal of Cell Biology
+   DOI: https://doi.org/10.1083/jcb.143.6.1713
+   URL: https://doi.org/10.1083/jcb.143.6.1713
+   Open Access: Yes

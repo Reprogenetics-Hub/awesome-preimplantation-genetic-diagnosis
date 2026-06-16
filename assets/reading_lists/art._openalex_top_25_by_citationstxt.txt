@@ -1,0 +1,226 @@
+Top 25 Papers Citation Search Results
+Generated: 2025-10-28 02:44:48
+================================================================================
+
+1. Epidemiology and causes of preterm birth
+   Authors: Robert L. Goldenberg, Jennifer F. Culhane, Jay D. Iams, Roberto Romero
+   Year: 2008
+   Citations: 7423
+   Source: The Lancet
+   DOI: https://doi.org/10.1016/s0140-6736(08)60074-4
+   URL: https://doi.org/10.1016/s0140-6736(08)60074-4
+   Open Access: Yes
+
+2. Epigenetic differences arise during the lifetime of monozygotic twins
+   Authors: Mario F. Fraga, Esteban Ballestar, Maria F. Paz, Santiago Ropero, Fernando Setién
+   Year: 2005
+   Citations: 3535
+   Source: Proceedings of the National Academy of Sciences
+   DOI: https://doi.org/10.1073/pnas.0500398102
+   URL: https://doi.org/10.1073/pnas.0500398102
+   Open Access: Yes
+
+3. Persistent epigenetic differences associated with prenatal exposure to famine in humans
+   Authors: Bastiaan T. Heijmans, Elmar W. Tobi, Aryeh D. Stein, Hein Putter, Gerard J. Blauw
+   Year: 2008
+   Citations: 2986
+   Source: Proceedings of the National Academy of Sciences
+   DOI: https://doi.org/10.1073/pnas.0806560105
+   URL: https://doi.org/10.1073/pnas.0806560105
+   Open Access: Yes
+
+4. DNA methylation and human disease
+   Authors: Keith D. Robertson
+   Year: 2005
+   Citations: 2772
+   Source: Nature Reviews Genetics
+   DOI: https://doi.org/10.1038/nrg1655
+   URL: https://doi.org/10.1038/nrg1655
+   Open Access: No
+
+5. International estimates of infertility prevalence and treatment-seeking: potential need and demand for infertility medical care
+   Authors: Jacky Boivin, Laura Bunting, John A. Collins, K.G. Nygren
+   Year: 2007
+   Citations: 2171
+   Source: Human Reproduction
+   DOI: https://doi.org/10.1093/humrep/dem046
+   URL: https://doi.org/10.1093/humrep/dem046
+   Open Access: Yes
+
+6. A unique view on male infertility around the globe
+   Authors: Ashok Agarwal, Aditi Mulgund, Alaa Hamada, Michelle Chyatte
+   Year: 2015
+   Citations: 2114
+   Source: Reproductive Biology and Endocrinology
+   DOI: https://doi.org/10.1186/s12958-015-0032-1
+   URL: https://doi.org/10.1186/s12958-015-0032-1
+   Open Access: Yes
+
+7. ESHRE guideline: management of women with endometriosis
+   Authors: G.A.J. Dunselman, Nathalie Vermeulen, Christian M. Becker, Carlos Calhaz–Jorge, Thomas D’Hooghe
+   Year: 2014
+   Citations: 2097
+   Source: Human Reproduction
+   DOI: https://doi.org/10.1093/humrep/det457
+   URL: https://doi.org/10.1093/humrep/det457
+   Open Access: No
+
+8. American Society of Clinical Oncology Recommendations on Fertility Preservation in Cancer Patients
+   Authors: Stephanie J. Lee, Leslie R. Schover, Ann H. Partridge, Pasquale Patrizio, William H. Wallace
+   Year: 2006
+   Citations: 2044
+   Source: Journal of Clinical Oncology
+   DOI: https://doi.org/10.1200/jco.2006.06.5888
+   URL: https://doi.org/10.1200/jco.2006.06.5888
+   Open Access: Yes
+
+9. Protein therapeutics: a summary and pharmacological classification
+   Authors: Benjamin Leader, Quentin Baca, David E. Golan
+   Year: 2007
+   Citations: 1996
+   Source: Nature Reviews Drug Discovery
+   DOI: https://doi.org/10.1038/nrd2399
+   URL: https://doi.org/10.1038/nrd2399
+   Open Access: No
+
+10. Testosterone Therapy in Men with Androgen Deficiency Syndromes: An Endocrine Society Clinical Practice Guideline
+   Authors: Shalender Bhasin, Glenn R. Cunningham, Frances J. Hayes, Alvin M. Matsumoto, Peter J. Snyder
+   Year: 2010
+   Citations: 1936
+   Source: The Journal of Clinical Endocrinology & Metabolism
+   DOI: https://doi.org/10.1210/jc.2009-2354
+   URL: https://doi.org/10.1210/jc.2009-2354
+   Open Access: No
+
+11. Blastocyst score affects implantation and pregnancy outcome: towards a single blastocyst transfer
+   Authors: David K. Gardner, Michelle Lane, John Stevens, Terry Schlenker, William B. Schoolcraft
+   Year: 2000
+   Citations: 1920
+   Source: Fertility and Sterility
+   DOI: https://doi.org/10.1016/s0015-0282(00)00518-5
+   URL: https://doi.org/10.1016/s0015-0282(00)00518-5
+   Open Access: Yes
+
+12. Management of Thyroid Dysfunction during Pregnancy and Postpartum: An Endocrine Society Clinical Practice Guideline
+   Authors: Leslie De Groot, Marcos Abalovich, Erik K. Alexander, Nobuyuki Amino, Linda A. Barbour
+   Year: 2012
+   Citations: 1871
+   Source: The Journal of Clinical Endocrinology & Metabolism
+   DOI: https://doi.org/10.1210/jc.2011-2803
+   URL: https://doi.org/10.1210/jc.2011-2803
+   Open Access: Yes
+
+13. Pre-eclampsia
+   Authors: Baha M. Sibai, Gus Dekker, Michael J. Kupferminc
+   Year: 2005
+   Citations: 1757
+   Source: The Lancet
+   DOI: https://doi.org/10.1016/s0140-6736(05)17987-2
+   URL: https://doi.org/10.1016/s0140-6736(05)17987-2
+   Open Access: No
+
+14. 2020 ESC Guidelines for the management of adult congenital heart disease
+   Authors: Helmut Baumgartner, Julie De Backer, Sonya V. Babu‐Narayan, Werner Budts, Massimo Chessa
+   Year: 2020
+   Citations: 1735
+   Source: European Heart Journal
+   DOI: https://doi.org/10.1093/eurheartj/ehaa554
+   URL: https://doi.org/10.1093/eurheartj/ehaa554
+   Open Access: Yes
+
+15. The Istanbul consensus workshop on embryo assessment: proceedings of an expert meeting
+   Authors: Başak Balaban, Daniel R. Brison, Gloria Calderón, James Catt, J. Conaghan
+   Year: 2011
+   Citations: 1732
+   Source: Human Reproduction
+   DOI: https://doi.org/10.1093/humrep/der037
+   URL: https://doi.org/10.1093/humrep/der037
+   Open Access: Yes
+
+16. International Committee for Monitoring Assisted Reproductive Technology (ICMART) and the World Health Organization (WHO) revised glossary of ART terminology, 2009∗
+   Authors: Fernando Zegers-Hochschild, G. David Adamson, J. de Mouzon, Osamu Ishihara, R. Mansour
+   Year: 2009
+   Citations: 1720
+   Source: Fertility and Sterility
+   DOI: https://doi.org/10.1016/j.fertnstert.2009.09.009
+   URL: https://doi.org/10.1016/j.fertnstert.2009.09.009
+   Open Access: Yes
+
+17. Endometriosis: pathogenesis and treatment
+   Authors: Paolo Vercellini, Paola Viganò, Edgardo Somigliana, Luigi Fedele
+   Year: 2013
+   Citations: 1719
+   Source: Nature Reviews Endocrinology
+   DOI: https://doi.org/10.1038/nrendo.2013.255
+   URL: https://doi.org/10.1038/nrendo.2013.255
+   Open Access: No
+
+18. Clinical diagnosis and management by laboratory methods
+   Authors: John B. Henry
+   Year: 1979
+   Citations: 1703
+   Source: Unknown
+   Open Access: No
+
+19. Infertility around the globe: new thinking on gender, reproductive technologies and global movements in the 21st century
+   Authors: Marcia C. Inhorn, Pasquale Patrizio
+   Year: 2015
+   Citations: 1678
+   Source: Human Reproduction Update
+   DOI: https://doi.org/10.1093/humupd/dmv016
+   URL: https://doi.org/10.1093/humupd/dmv016
+   Open Access: Yes
+
+20. Preeclampsia
+   Authors: Sarosh Rana, Elizabeth Lemoine, Joey P. Granger, S. Ananth Karumanchi
+   Year: 2019
+   Citations: 1659
+   Source: Circulation Research
+   DOI: https://doi.org/10.1161/circresaha.118.313276
+   URL: https://doi.org/10.1161/circresaha.118.313276
+   Open Access: Yes
+
+21. Polycystic ovary syndrome: definition, aetiology, diagnosis and treatment
+   Authors: Héctor F. Escobar‐Morreale
+   Year: 2018
+   Citations: 1628
+   Source: Nature Reviews Endocrinology
+   DOI: https://doi.org/10.1038/nrendo.2018.24
+   URL: https://doi.org/10.1038/nrendo.2018.24
+   Open Access: No
+
+22. Trends in the Prevalence of Developmental Disabilities in US Children, 1997–2008
+   Authors: Coleen A. Boyle, Sheree L. Boulet, Laura A. Schieve, Robin Cohen, Stephen J. Blumberg
+   Year: 2011
+   Citations: 1627
+   Source: PEDIATRICS
+   DOI: https://doi.org/10.1542/peds.2010-2989
+   URL: https://doi.org/10.1542/peds.2010-2989
+   Open Access: No
+
+23. Resilience as a dynamic concept
+   Authors: Michael Rutter
+   Year: 2012
+   Citations: 1603
+   Source: Development and Psychopathology
+   DOI: https://doi.org/10.1017/s0954579412000028
+   URL: https://doi.org/10.1017/s0954579412000028
+   Open Access: No
+
+24. Phenotypic plasticity and the epigenetics of human disease
+   Authors: Andrew P. Feinberg
+   Year: 2007
+   Citations: 1590
+   Source: Nature
+   DOI: https://doi.org/10.1038/nature05919
+   URL: https://doi.org/10.1038/nature05919
+   Open Access: No
+
+25. Role of reactive oxygen species in the pathophysiology of human reproduction
+   Authors: Ashok Agarwal, Ramadan Saleh, Mohamed A. Bedaiwy
+   Year: 2003
+   Citations: 1532
+   Source: Fertility and Sterility
+   DOI: https://doi.org/10.1016/s0015-0282(02)04948-8
+   URL: https://doi.org/10.1016/s0015-0282(02)04948-8
+   Open Access: Yes
